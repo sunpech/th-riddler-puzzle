@@ -102,3 +102,7 @@ Second, if Pete had said no the fifth time, would Susan have said yes or no at h
 Susan would have said "no" because her table does not contain any unique sums.
 
 ![turn 5](images/turn-5.png)
+
+#### Links
+* [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1oKVPzPVhKye9vGsJQDVg_IzyFFOQhDXRzz-dfIfXVZg/edit?usp=sharing)
+* [Can You Solve The Impossible Puzzle?](https://fivethirtyeight.com/features/can-you-solve-the-impossible-puzzle/) by [Oliver Roeder](https://twitter.com/ollie) on [fivethirtyeight.com](https://fivethirtyeight.com/)
