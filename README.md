@@ -40,7 +40,7 @@ S' possible remaining sums;: {5, 6, 7, 8, 9, 10, 11}
 
 ### Turn 2
 
-On P's second turn (and on his future turns), he works off the S' inability to know Barack's number combination. Likewise, on S' second turn (and on her future turns), she works off of P's inability to know Barack's number combination.
+On P's second turn (and on his future turns), he works off the S's inability to know Barack's number combination. Likewise, on S's second turn (and on her future turns), she works off of P's inability to know Barack's number combination.
 
 Therefore, on turn 2, P eliminates the corresponding table cells that S crossed off. In addition, we need to eliminate any unique products on his table because he still does not know
 Barack's number combination.
@@ -95,14 +95,14 @@ P knows the answer on this turn, meaning that he must have a unique product on h
 
 First, what are the two numbers?
 
-The answer to Barack's puzzle must be (2, 8).
+**The answer to Barack's puzzle must be (2, 8).**
 
 Second, if Pete had said no the fifth time, would Susan have said yes or no at her fifth turn?
 
-Susan would have said "no" because her table does not contain any unique sums.
+**Susan would have said "no" because her table does not contain any unique sums.**
 
 ![turn 5](images/turn-5.png)
 
 #### Links
-* [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1oKVPzPVhKye9vGsJQDVg_IzyFFOQhDXRzz-dfIfXVZg/edit?usp=sharing)
+* [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1oKVPzPVhKye9vGsJQDVg_IzyFFOQhDXRzz-dfIfXVZg/edit?usp=sharing) of all tables
 * [Can You Solve The Impossible Puzzle?](https://fivethirtyeight.com/features/can-you-solve-the-impossible-puzzle/) by [Oliver Roeder](https://twitter.com/ollie) on [fivethirtyeight.com](https://fivethirtyeight.com/)
